@@ -13,7 +13,7 @@
     "best_quote_zh": "我喜欢哔哩哔哩是因为它提供了丰富多樣的內容，满足了我对娱乐、知识和社交的需求。而且，它的互动性和弹幕文化也增加了我的观看体验。"
 },
 {
-    "id": 1,
+    "id": 2,
     "title": "How to Find Time to Learn in a Busy Life? (Four Strategies)",
     "title_zh": "忙碌生活中，怎样才能挤出时间学习？（四种策略）",
     "source": "微信公众平台",
@@ -27,7 +27,7 @@
     "best_quote_zh": "找时间学习归根结底是一个动力问题。学习的动力必须来自某些让你感到兴奋的东西。"
 },
 {
-    "id": 2,
+    "id": 3,
     "title": "I Discovered That High-Frequency Expression Can Establish a Closer Connection with Oneself",
     "title_zh": "我发现，高频表达可以与自己建立更紧密的联系",
     "source": "微信公众平台",
@@ -39,20 +39,6 @@
     "summary_zh": "作者分享了自己坚持每天进行10分钟表达练习一年后的收获。通过持续录音讲述每日经历、情绪和想法，他与自我的连接变得更加紧密。这一实践带来了两个显著变化：一是人际交往中自我边界更清晰（能快速觉察不适并做出反应）；二是写作时不再“文字失语”，因为持续的讲述让想法和感受源源不断地涌现，从而有话可说。",
     "best_quote_en": "After starting to frequently articulate myself, my connection to my own thoughts and emotions became tighter... With these specific internal signals as a basis, the brain can naturally produce reactions or actions more quickly.",
     "best_quote_zh": "而开始高频讲述自己后，我跟自己的想法、情绪的联系变紧密了......有了这些具体的内部信号做依据，大脑自然就能更快的产生反应或行动。"
-},
-{
-    "id": 3,
-    "title": "6 Best Fitness Moves: Work Out All Your Muscles at Home This Summer",
-    "title_zh": "6个最佳健身动作，这个夏天，不出门在家练遍全身肌肉",
-    "source": "微信公众平台",
-    "link": "https://mp.weixin.qq.com/s/cFq-m6FYQR9tgsmkLi_EzA",
-    "tags": ["Home Workout", "Fitness", "Muscle Building"],
-    "tags_zh": ["家庭健身", "健身", "增肌"],
-    "date": "2025-06-01",
-    "summary_en": "The article introduces six highly effective bodyweight exercises designed to target all major muscle groups (chest, back, legs, glutes, core, arms) in a 30-minute daily home workout routine. It provides detailed instructions, benefits, and recommended sets/reps for each move: Jumping Jacks (warm-up), Alternating Plank (core), Triceps Dips (arms), (Kneeling) Push-Ups (chest/arms), Lunges (lower body), and Glute Bridges (glutes). The guide emphasizes proper form over quantity to build muscle, burn fat, and improve body composition effectively and safely, promising visible results in 4 weeks.",
-    "summary_zh": "文章介绍了一套6个高效的居家自重训练动作，旨在每天30分钟锻炼全身主要肌群（胸、背、腿、臀、核心、手臂）。详细说明了每个动作的作用、要点和组数次数：开合跳（热身）、交替平板支撑（核心）、后臂屈伸（手臂）、（跪姿）俯卧撑（胸/手臂）、弓步蹲（下肢）和臀桥（臀肌）。指南强调动作质量大于数量，以有效增肌减脂、改善体型线条，并安全不受伤，承诺坚持4周即可看到明显效果。",
-    "best_quote_en": "Movement quality > quantity! Avoid compensation to be efficient and injury-free!",
-    "best_quote_zh": "注意：动作质量＞数量！避免代偿，才能高效不受伤！"
 },
 {
     "id": 4,
