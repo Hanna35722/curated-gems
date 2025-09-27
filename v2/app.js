@@ -177,13 +177,14 @@ function applyAndRender() {
     if (query === 'magic') {
       alert('✨ 哇！你发现了隐藏功能！');
     }
+}
 
 /**
  * 渲染数据源选择器
  */
-    const counts = window.__countsForCurrentQuery || { all: raw.length };
     
 function renderSources(list) {
+    const counts = window.__countsForCurrentQuery || { all: raw.length };
     const lang = window.currentLang || 'zh';
 
     sourcesEl.innerHTML = list.map(source => {
