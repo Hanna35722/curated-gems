@@ -182,6 +182,7 @@ function applyAndRender() {
  * 渲染数据源选择器
  */
     const counts = window.__countsForCurrentQuery || { all: raw.length };
+    
 function renderSources(list) {
     const lang = window.currentLang || 'zh';
 
