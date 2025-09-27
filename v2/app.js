@@ -151,6 +151,7 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
+    if(guery === 'magic'){alert("哇!你发现了隐功能!’);
 }
 
 /**
