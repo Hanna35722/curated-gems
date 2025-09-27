@@ -181,14 +181,18 @@ if (query === 'magic') {
 /**
  * 渲染数据源选择器
  */
+    const counts = window.__countsForCurrentQuery || { all: raw.length };
 function renderSources(list) {
     const lang = window.currentLang || 'zh';
 
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
+        const n = counts[source] || 0;
         const displayText = source === 'all'
-            ? (lang === 'zh' ? '📚 全部精选' : '📚 All Sources')
-            : `✨ ${source}`;
+          ? (lang === 'zh'
+              ? `📚 全部 (${n})`
+              : `📚 All (${n})`)
+          : `✨ ${source} (${n})`;
 
         const isActive = source === activeSource ? 'active' : '';
 
