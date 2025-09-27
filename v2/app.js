@@ -183,8 +183,8 @@ function render(items) {
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧',
-            en: '😅 No relevant content found, try different keywords'
+            zh: '[大哭] 亲爱的主人，没有找到相关内容，换个关键词试试吧？,
+            en: '[大哭] Dear Owner, no relevant content was found. How about trying a different keyword?'
         };
 
         emptyEl.textContent = emptyTexts[lang];
@@ -206,8 +206,8 @@ function renderWithLanguage(items, lang) {
 
     // 更新搜索框提示文字
     const placeholder = lang === 'zh'
-        ? '🔍 输入关键词搜索精彩内容...'
-        : '🔍 Enter keywords to search amazing content...';
+        ? '🔍 输入你喜欢的关键字看看...'
+        : '🔍 Enter the keywords you like to see...';
 
     if (searchEl) {
         searchEl.placeholder = placeholder;
